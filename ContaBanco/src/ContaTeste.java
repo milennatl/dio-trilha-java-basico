@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ContaTerminal {
+public class testeConta {
     public static void main(String[] args) {
         
         //criando o objeto scanner
